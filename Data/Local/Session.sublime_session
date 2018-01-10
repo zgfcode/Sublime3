@@ -1,0 +1,383 @@
+{
+	"folder_history":
+	[
+		"/C/AFile/fs",
+		"/C/Users/ATEN/Desktop"
+	],
+	"last_version": 3143,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"my",
+						"myDate"
+					],
+					[
+						"get",
+						"getElementsByClassName"
+					],
+					[
+						"bo",
+						"bold\t(index.html)"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"bor",
+						"border\t(index.html)"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"F",
+						"FrontEnd/"
+					],
+					[
+						"obj",
+						"obj2"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"conso",
+						"console.log"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"aten",
+						"aten100"
+					],
+					[
+						"border-",
+						"border-bottom"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"color",
+						"colorArray"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"magn",
+						"margin-left"
+					],
+					[
+						"bod",
+						"border"
+					],
+					[
+						"wi",
+						"width"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/MyApp/Sublime3/.git/description",
+				"/C/Coding/001to100/002.LearnGit/002.LearnGit.note",
+				"/C/MyApp/Sublime3/.git/config",
+				"/C/Users/ATEN/Desktop/test.html",
+				"/C/Users/ATEN/Desktop/index.html",
+				"/C/Users/ATEN/Downloads/STOP_jump_win/config/default.json",
+				"/C/Users/ATEN/Downloads/STOP_jump_win/config/mi/mi5_config.json",
+				"/C/Users/ATEN/Downloads/STOP_jump_win/config/1920x1080/config.json",
+				"/C/Users/ATEN/Downloads/STOP_jump_win/README.md",
+				"/C/aten.xyz/HTML.html",
+				"/C/aten.xyz/Websites.html",
+				"/C/Users/ATEN/Desktop/test.js",
+				"/C/aten.xyz/index.html",
+				"/C/Users/ATEN/Desktop/test2.js",
+				"/C/Users/ATEN/Desktop/datedif.html",
+				"/C/Users/ATEN/Desktop/datedif.js",
+				"/C/aten.xyz/atenxyz.html",
+				"/C/aten.xyz/test2.js",
+				"/C/aten.xyz/Time/1Month.html",
+				"/C/aten.xyz/25-100.html",
+				"/C/aten.xyz/Time/FYP.html",
+				"/C/aten.xyz/Time/1Year.html",
+				"/C/aten.xyz/Log.html",
+				"/C/aten.xyz/English/English.html",
+				"/C/aten.xyz/FrontEnd/FrontEnd.html",
+				"/C/aten.xyz/Universe/Universe.html",
+				"/C/aten.xyz/Science/index.html",
+				"/C/aten.xyz/aten.html",
+				"/C/Users/ATEN/Desktop/aten.md",
+				"/C/aten.xyz/404.html",
+				"/C/aten.xyz/Company.html",
+				"/C/aten.xyz/test.js",
+				"/C/aten.xyz/test3.html",
+				"/C/aten.xyz/FrontEnd.html",
+				"/C/aten.xyz/Time/25 to 100.html",
+				"/C/aten.xyz/Time/25-to-100.html",
+				"/C/Users/ATEN/package-lock.json",
+				"/C/aten.xyz/outline.html",
+				"/C/Users/ATEN/Desktop/test/test.css",
+				"/C/Users/ATEN/Desktop/test/test.html",
+				"/C/Users/ATEN/Desktop/test/test2.html",
+				"/C/aten.xyz/Time.html",
+				"/F/BaiduNetdiskDownload/zhufengEffect.js",
+				"/C/Users/ATEN/Desktop/test.css",
+				"/C/GitHome/zf/git/package.json",
+				"/C/Coding/001to100/001.ReactApp/README.md",
+				"/C/Coding/001to100/001.ReactApp/001.ReactApp.note",
+				"/C/Coding/001to100/001.ReactApp/package.json",
+				"/C/Coding/001to100/010.npm/010.npm.note",
+				"/C/GitHome/zf/zhufengshop/package.json",
+				"/C/GitHome/zf/zhufengtodo/package.json",
+				"/C/GitHome/zf/zhufengtodo/README.md",
+				"/C/Users/ATEN/Desktop/fortune500.html",
+				"/C/Users/ATEN/Desktop/fortune500_01.html",
+				"/C/Users/ATEN/Desktop/CLI.html",
+				"/C/Coding/NTES-Music/index.html",
+				"/C/Coding/NTES-Music/css/homepage.css",
+				"/D/CS/FrontEnd/02_CSS/小米实战/index.html",
+				"/C/Coding/NTES-Music/homepage.css",
+				"/C/Intel/gp/profile_ATEN.dat",
+				"/C/AFile/grub/TODO",
+				"/C/Coding/mis.lenovots.com/test2.html",
+				"/C/Coding/mis.lenovots.com/hah.html"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\");",
+					"days",
+					"Mon",
+					"sn0",
+					"}",
+					"div class=\"cell\"",
+					"li",
+					"sec",
+					">\n",
+					"css",
+					"<li>",
+					"</li>",
+					"</a>",
+					"_blank\">",
+					"_blank\">.*</a>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"Mon Mon",
+					"sn",
+					"div class=\"cell sn0\"",
+					"h3",
+					"\"oh\"",
+					"",
+					"</li>",
+					"<li>"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 212.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,799,131,174,1156",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

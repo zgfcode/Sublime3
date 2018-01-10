@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Angular CLI",
+		"AngularJS",
+		"AngularJS Snippets",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"IMESupport",
+		"JsFormat",
+		"JSON Reindent",
+		"LESS",
+		"Nodejs",
+		"Package Control",
+		"PlainTasks",
+		"React and React Router Snippets",
+		"React ES6 Snippets",
+		"React IDE",
+		"React Templates",
+		"ReactJS",
+		"Redux Snippets",
+		"SideBarEnhancements",
+		"Terminal",
+		"TypeScript"
+	]
+}

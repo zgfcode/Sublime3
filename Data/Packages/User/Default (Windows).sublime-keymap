@@ -1,0 +1,18 @@
+[
+	{"keys": ["ctrl+shift+f5"], "command": "add_date_time_stamp" },
+
+    {"keys": ["alt+3"],"command": "open_in_browser"},
+
+    {
+            "keys": ["alt+l"],
+            "command": "toggle_setting",
+            "args":
+            {
+                    "setting": "line_numbers"
+            }
+    },
+
+
+   { "keys": ["f2"], "command": "rename_file", "args": { "paths": ["$file"] } }
+
+]
